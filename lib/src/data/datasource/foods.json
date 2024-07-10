@@ -1,0 +1,30 @@
+[
+  {
+    "food_name": "Cake",
+    "food_price": "50",
+    "food_category": "Desert",
+    "food_rating": 4.5,
+    "food_image": "https://i.pinimg.com/originals/2f/40/40/2f40406ee88a54fc7108f2f0a5d3cccc.jpg"
+  },
+  {
+    "food_name": "Soup",
+    "food_price": "60",
+    "food_category": "First",
+    "food_rating": 4.0,
+    "food_image": "https://gratisography.com/wp-content/uploads/2018/05/gratisography-368H-free-stock-photo-800x525.jpg"
+  },
+  {
+    "food_name": "Pasta",
+    "food_price": "40",
+    "food_category": "Second",
+    "food_rating": 1.0,
+    "food_image": "https://gratisography.com/wp-content/uploads/2021/10/gratisography-holding-fish-free-stock-photo-800x525.jpg"
+  },
+  {
+    "food_name": "Stake",
+    "food_price": "89",
+    "food_category": "Desert",
+    "food_rating": 4.5,
+    "food_image": "https://gratisography.com/wp-content/uploads/2023/10/gratisography-candy-corn-halloween-pumpkin-800x525.jpg"
+  }
+]

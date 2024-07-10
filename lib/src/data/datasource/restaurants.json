@@ -1,0 +1,38 @@
+[
+  {
+    "picture": "https://i.pinimg.com/originals/11/22/9a/11229a13aec3fc491220a66f8172532f.png",
+    "name": "Macdonald's",
+    "address": "22032 Bernier Estate",
+    "id": "1"
+  },
+  {
+    "picture": "https://i.pinimg.com/originals/cf/57/66/cf5766479f3666c5546c71bb265bbc01.png",
+    "name": "KFC",
+    "address": "0049 Ericka Brooks",
+    "id": "2"
+  },
+  {
+    "picture": "https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-logotip-burger-king-na-prozrachnom-fone-24.png",
+    "name": "Lanzhou",
+    "address": "949 Jordan Light",
+    "id": "3"
+  },
+  {
+    "picture": "https://i.pinimg.com/originals/11/22/9a/11229a13aec3fc491220a66f8172532f.png",
+    "name": "Macdonald's",
+    "address": "22032 Bernier Estate",
+    "id": "1"
+  },
+  {
+    "picture": "https://i.pinimg.com/originals/cf/57/66/cf5766479f3666c5546c71bb265bbc01.png",
+    "name": "KFC",
+    "address": "0049 Ericka Brooks",
+    "id": "2"
+  },
+  {
+    "picture": "https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-logotip-burger-king-na-prozrachnom-fone-24.png",
+    "name": "Lanzhou",
+    "address": "949 Jordan Light",
+    "id": "3"
+  }
+]
